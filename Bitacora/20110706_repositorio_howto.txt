@@ -1,0 +1,23 @@
+
+			Acceder al repositorio:
+------------------------------------------------------------------------------
+
+    Bajarse el repositorio por primera vez:
+
+	    git clone git@github.com:jgascon/Horror_videogame.git
+
+    Agregar localmente ficheros:
+
+	    git add nombre_fichero_o_directorio
+
+    Hacer commit local:
+
+	    git commit -a
+
+    Subir cambios al repositorio global:
+
+	    git push
+
+    Actualizar copia local:
+
+	    git pull
