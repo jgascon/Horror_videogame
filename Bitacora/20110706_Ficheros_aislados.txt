@@ -1,0 +1,17 @@
+
+			Lista de ficheros aislados:
+------------------------------------------------------------------------------
+
+    [X] - Skeleton.
+
+    [ ] - Greta.
+
+    [ ] - Helsing.
+
+    [ ] - Panteon.
+
+    [ ] - Puerta barroca.
+
+    [ ] - Tumba 1.
+
+    [ ] - Tumba 2.

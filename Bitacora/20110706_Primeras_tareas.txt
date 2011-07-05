@@ -1,0 +1,64 @@
+
+		    Tareas iniciales para nuestro juego:
+------------------------------------------------------------------------------
+
+    [ ] - Ir añadiendo poco a poco los elementos aislados.
+
+	    - La carpeta "models" tendrá dentro una librería de objetos, cada
+	      uno en su directorio.
+
+	    - Cada elemento estará dentro un directorio dentro de "models".
+
+	    - Dentro de ese directorio habrá solamente un fichero .blend con
+	      el elemento. Este elemento debería estar lo más cerca posible
+	      del origen de coordenadas.
+
+	    - Para ahorrar espacio, el fichero .blend se guardará siempre con
+	      la opción "compress file" activada en el menú "File" de Blender.
+
+	    - Dentro de ese directorio habrá una carpeta llamada "textures",
+	      que guardará las texturas que use ese elemento. Para ahorrar
+	      espacio, todas estas texturas se guardarán en formato jpg,
+	      excepto aquellas que guarden canal alpha, que se guardarán en
+	      .png.
+
+	    - Si lo vemos necesario, también se puede crear un directorio
+	      llamado "preImages" que guarde los ficheros de Gimp os svgs
+	      necesarios para crear las texturas.
+
+
+
+
+
+    [ ] - Aislar a Greta.
+
+	    [ ] - Crear una mini-escena con un suelo y un cubo.
+
+	    [ ] - Traerse a Greta desde el fichero main.blend.
+
+	    [ ] - Crear estados para Greta (general, saltar, caer, morir).
+
+	    [ ] - Asegurarse que todas sus animaciones funcionan (caminar, salto).
+
+	    [ ] - Agregar la lógica de la cámara.
+
+	    [ ] - Crear una malla invisible de detección de colisiones,
+		  asociarla al esqueleto para que se mueva igual.
+
+	    [ ] - Probar Greta dentro de las mini escenas.
+
+
+
+    [ ] - Aislar a Helsing.
+
+	    [ ] - Crear una mini-escena con un suelo y un cubo.
+
+	    [ ] - Traerse a Helsing desde el fichero main.blend.
+
+	    [ ] - Crear estados para Helsing (general, saltar, caer, morir).
+
+	    [ ] - Asegurarse que todas sus animaciones funcionan (caminar, salto).
+
+	    [ ] - Agregar la lógica de la cámara.
+
+	    [ ] - Crear una malla invisible de detección de colisiones.
